@@ -1,5 +1,5 @@
 
-#creacion imagen
+.#creacion imagen
 docker build -t dashbi:v1 .
 
 #Ejecucion de la imagen
