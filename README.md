@@ -1,4 +1,4 @@
-# docker-actions-demo
+.# docker-actions-demo
 Build a Docker image with GitHub actions
 
 ## Pre-requisites
